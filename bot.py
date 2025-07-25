@@ -1,7 +1,7 @@
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "coloque_seu_token_aqui"
+TOKEN = "8423656127:AAGh1iunMqQxEkaYCWzQsJxEy1bBTGoIdEo"
 
 def ler_arquivo(nome):
     try:
