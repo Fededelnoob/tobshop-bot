@@ -1,6 +1,3 @@
-Olá! 👋 Sou o bot de atendimento da Tob Shop.
-
-Seja bem-vindo(a)! Para facilitar sua escolha, nossa tabela de preços agora mostra a duração de cada plano. Confira! 👇
 
 • • ━━━━━━ • • ━━━━━━ • •
 🍥💥 CRUNCHYROLL 💥🍥
@@ -15,17 +12,6 @@ Planos de Longa Duração
 ↳ 📅 1 Ano (Anual)
 ↳ 👥 Compartilhado: R$ 14,99
 ↳ 👤 Privado: R$ 29,99
-
-═════════ ⋆⋅☆⋅⋆ ═════════
-
-👑🐉 HBO MAX 🐉👑
-Planos Mensais (30 dias)
-↳ 👥 Compartilhado: R$ 1,99
-↳ 👤 Privado: R$ 3,99
-
-Planos Trimestrais (90 dias)
-↳ 👥 Compartilhado: R$ 8,99
-↳ 👤 Privado: R$ 14,99
 
 ═════════ ⋆⋅☆⋅⋆ ═════════
 
@@ -50,9 +36,39 @@ Disponível apenas no plano mensal (30 dias).
 
 ═════════ ⋆⋅☆⋅⋆ ═════════
 
-🌍📺 GLOBO PLAY BÁSICA 🌍📺
+🌍▶️ GLOBO PLAY BÁSICA ▶️🌍
 Disponível apenas no plano mensal (30 dias).
 ↳ 👥 Compartilhado: R$ 3,99
+
+═════════ ⋆⋅☆⋅⋆ ═════════
+
+🌍📺 GLOBO PLAY + CANAIS 🌍📺
+Disponível apenas no plano mensal (30 dias).
+↳ 👥 Compartilhado: R$ 7,99
+
+═════════ ⋆⋅☆⋅⋆ ═════════
+
+🥊⚽ GLOBO PLAY + COMBATE + PREMIERE 🥊⚽
+Disponível apenas no plano mensal (30 dias).
+↳ 👥 Compartilhado: R$ 7,99
+
+═════════ ⋆⋅☆⋅⋆ ═════════
+
+🔴📺 CLARO TV BÁSICA 🔴📺
+Disponível apenas no plano mensal (30 dias).
+↳ 👥 Compartilhado: R$ 6,99
+
+═════════ ⋆⋅☆⋅⋆ ═════════
+
+🔴📺 CLARO TV + MAX 🔴📺
+Disponível apenas no plano mensal (30 dias).
+↳ 👥 Compartilhado: R$ 9,99
+
+═════════ ⋆⋅☆⋅⋆ ═════════
+
+🔴⚪ TELECINE ⚪🔴
+Disponível apenas no plano mensal (30 dias).
+↳ 👥 Compartilhado: R$ 7,99
 
 ═════════ ⋆⋅☆⋅⋆ ═════════
 
