@@ -14,6 +14,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     mensagem = ler_arquivo("mensagem_inicial.txt")
     teclado = [
         ["🎬 Ver Streamings", "🧠 Ver Assinaturas"],
+        ["📄 Termos & Políticas"],
         ["💬 Suporte Técnico", "🙋‍♂️ Falar com Atendente"]
     ]
     await update.message.reply_text(
@@ -30,11 +31,20 @@ async def responder(update: Update, context: ContextTypes.DEFAULT_TYPE):
     elif "assinatura" in texto:
         await update.message.reply_text(ler_arquivo("assinaturas.txt"), parse_mode="Markdown")
 
+    elif "termo" in texto or "política" in texto:
+        await update.message.reply_text(ler_arquivo("termos.txt"), parse_mode="Markdown")
+
     elif "suporte" in texto or "técnico" in texto:
-        await update.message.reply_text("🧰 Suporte técnico: nos envie sua dúvida no Telegram: [@Tobshops](https://t.me/Tobshops)", parse_mode="Markdown")
+        await update.message.reply_text(
+            "🧰 Suporte técnico: nos envie sua dúvida no Telegram: [@Tobshops](https://t.me/Tobshops)",
+            parse_mode="Markdown"
+        )
 
     elif "atendente" in texto:
-        await update.message.reply_text("🙋‍♂️ Atendimento humano via Telegram: [@Tobshops](https://t.me/Tobshops)", parse_mode="Markdown")
+        await update.message.reply_text(
+            "🙋‍♂️ Atendimento humano via Telegram: [@Tobshops](https://t.me/Tobshops)",
+            parse_mode="Markdown"
+        )
 
     else:
         await update.message.reply_text("❓ Não entendi. Use os botões abaixo para navegar.")
